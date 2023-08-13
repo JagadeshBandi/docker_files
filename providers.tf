@@ -6,9 +6,9 @@ terraform {
     }
   }
   backend "azurerm" {
-    resource_group_name  = "docker"
-    storage_account_name = "jagadesh"
-    container_name       = "terraform"
+    resource_group_name  = "hardwork"
+    storage_account_name = "scuccesswillgiveresult"
+    container_name       = "container1"
     key                  = "terraform.tfstate"
   }
 }
