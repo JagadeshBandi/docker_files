@@ -1,7 +1,7 @@
 # docker_files
 {
-  "clientId": "f3f52af9-b78b-4011-8d03-a70c0152a5de",
-  "clientSecret": "vNL8Q~PNrmGhd8hc.JjbNMJ55Zybz5iMTREdNb1M",
+  "clientId": "d5dbfa54-ccc0-4140-9ca6-1f0d5beb98a2",
+  "clientSecret": "IKp8Q~CDuO3Hfm64eXXn.XxVFOOHA6uq5OyHBbvi",
   "subscriptionId": "74f082f8-6d6c-4892-a509-9143c530566d",
   "tenantId": "b38fc018-7351-45aa-8b8a-93e0b6592bf6",
   "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
